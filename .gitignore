@@ -3,3 +3,5 @@ resources/MainProgram.o
 client.o
 game.exe
 .vscode
+game
+resources/GameHandler.o
